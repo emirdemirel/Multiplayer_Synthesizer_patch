@@ -10,4 +10,6 @@ The presets in the package are composed in G-Harmonic Minor. To access other cho
 
 You can change the bass patterns from the .txt files in the pd_patch folder.
 
+If you'd like to have a deeper understanding of the philosophy and the working mechanism behind the tool, please take a look at the detailed report in the repository : 'RTI-NIME Paper.pdf'
+
 Enjoy!
