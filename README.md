@@ -1,4 +1,4 @@
-# Multiplayer Synthesizer - 'An electronic band in the pocket'
+# Multiplayer Synthesizer - 'An electronic band in your pocket'
 
 A 'multiplater synth' example, design for the course 'Real Time Interaction' (by Sergi Jorda) - Sound and Music Computing Program - Universitat Pompeu Fabra (2017)
 
