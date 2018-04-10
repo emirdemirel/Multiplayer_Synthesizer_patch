@@ -1,6 +1,6 @@
-# synthforjam
+# Multiplayer Synthesizer - 'An electronic band in the pocket'
 
-A 'collective synth' example, design for the course 'Real Time Interaction' (by Sergi Jorda) - Sound and Music Computing Program - Universitat Pompeu Fabra (2017)
+A 'multiplater synth' example, design for the course 'Real Time Interaction' (by Sergi Jorda) - Sound and Music Computing Program - Universitat Pompeu Fabra (2017)
 
 Simply download the repository, open main.pd to use the main patch.
 
